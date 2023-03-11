@@ -1,0 +1,11 @@
+Model Information:
+* title:	Magic Cube
+* source:	https://sketchfab.com/3d-models/magic-cube-99e2c85597744968b5352841cd9f5963
+* author:	Gioia2 (https://sketchfab.com/Gioia2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Magic Cube" (https://sketchfab.com/3d-models/magic-cube-99e2c85597744968b5352841cd9f5963) by Gioia2 (https://sketchfab.com/Gioia2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
